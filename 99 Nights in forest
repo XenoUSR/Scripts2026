@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CrepScripts/September/refs/heads/main/99%20Nights%20in%20forest%20VW", true))() 
